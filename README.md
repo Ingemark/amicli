@@ -1,5 +1,7 @@
 # Asterisk AMI Command Line Interface
 
+[![Build Status](https://travis-ci.com/Ingemark/pbxis.svg?branch=master)](https://travis-ci.com/Ingemark/pbxis)
+
 *amicli* provides various AMI-related Clojure functions for use in scripts which
 can be run from the UNIX command line. For example, it can be used to make phone
 calls from shell scripts.
