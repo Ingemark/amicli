@@ -8,7 +8,7 @@ calls from shell scripts.
 
 ## Usage
 
-To run the application use the following:
+Build the application with `lein uberjar` and run in the following way:
 
 ```
 java -cp amicli-standalone.jar amicli.main script.clj
